@@ -48,9 +48,8 @@
 
 Problem Domain:
 
-- Why did we build this project.
-
-Trello:  
+- Why did we build this project.  
+Project Management Board:  
 
 (https://trello.com/b/wxY50tfV/401-trello)  
 
