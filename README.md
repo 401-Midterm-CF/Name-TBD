@@ -54,9 +54,9 @@ UML:
 
 ![UML](./lib/images/TriviaBot-uml.jpg)  
 <br />
-Trello: (https://trello.com/b/wxY50tfV/401-trello)
+Trello: (https://trello.com/b/wxY50tfV/401-trello)  
 <br />
-![Schema](./lib/images/db_schema.png)
+![Schema](./lib/images/db_schema.png)  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
