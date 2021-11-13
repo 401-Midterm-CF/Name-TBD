@@ -50,12 +50,16 @@ Problem Domain:
 
 - Why did we build this project.
 
+Trello:  
+
+(https://trello.com/b/wxY50tfV/401-trello)  
+
 UML:
 
 ![UML](./lib/images/TriviaBot-uml.jpg)  
+
 <br />
-Trello: (https://trello.com/b/wxY50tfV/401-trello)  
-<br />
+
 Schema:  
 
 ![Schema](./lib/images/db_schema.png)  
