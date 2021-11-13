@@ -52,7 +52,7 @@ Problem Domain:
 
 UML:
 
-![UML](./lib/images/triviabot-uml.jpg)  
+![UML](./lib/images/TriviaBot-uml.jpg)  
 <br />
 Trello: (https://trello.com/b/wxY50tfV/401-trello)
 
