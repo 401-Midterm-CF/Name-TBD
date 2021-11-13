@@ -56,6 +56,8 @@ UML:
 <br />
 Trello: (https://trello.com/b/wxY50tfV/401-trello)  
 <br />
+Schema:  
+
 ![Schema](./lib/images/db_schema.png)  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
