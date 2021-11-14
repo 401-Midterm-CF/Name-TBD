@@ -215,3 +215,12 @@ Project Link: [GitHub](https://github.com/your_username/repo_name)
 
 - created.env
   - added MongoDB URI
+
+### third commit
+- user.js
+  - changed variable names
+- userStats.js
+  - finished get all users function
+  - need to adjust create user function. Able to save to the db, but is not creating a proper user
+- server.js
+  - added get and post for create user and get all users
