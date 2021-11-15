@@ -155,7 +155,7 @@ Project Link: [GitHub](https://github.com/your_username/repo_name)
 
 ## Acknowledgments
 
--> Any we have alomng the way.
+-> Any we have along the way.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -182,3 +182,45 @@ Project Link: [GitHub](https://github.com/your_username/repo_name)
 [github-shieldvalton]: https://img.shields.io/badge/ValtonJones-GitHub-black.svg?style=for-the-badge&logo=GitHub&colorB=555
 [github-urlvalton]: https://github.com/jones-trae
 [product-screenshot]: images/screenshot.png
+
+## Change log
+11/13/2021 - Anthony Morton 
+### first commit
+- Created package.JSON
+  - Dependencies added: express, dotenv, nodemon, axios, supertest, jest
+
+- Created index.js (server entry point)
+
+- Created server.js
+  - Server is up and running
+  - server get has been created
+
+- Created routes folder
+  - created quizAPI.js
+  - created userStats.js
+    - need to finish making crud routes
+    - created get all users function
+
+- Created __tests__ folder
+  -created apiTest.test.js
+    -no tests created
+
+- Created model folder
+  - created user.js
+    - user.js
+
+### second commit
+- index.js
+  - added connectiong to mongoDB via process.env.MONDGODB_URI to all heroku to allow connection to MongoDB
+
+- created.env
+  - added MongoDB URI
+
+### third commit
+- user.js
+  - changed variable names
+- userStats.js
+  - finished get all users function
+  - need to adjust create user function. Able to save to the db, but is not creating a proper user
+- server.js
+  - added get and post for create user and get all users
